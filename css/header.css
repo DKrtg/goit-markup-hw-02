@@ -2,6 +2,12 @@ span {
     color: #4D5AE5;
 }
 
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.03em;;
+}
+
 nav {
     font-weight: 700;
     font-size: 18px;
